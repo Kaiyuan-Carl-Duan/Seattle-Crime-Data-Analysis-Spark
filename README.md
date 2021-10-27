@@ -10,7 +10,7 @@ Dataset: https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs
 - Analyze the number of crime with respect to the hour in certian day to give your travel suggestion to visit Seattle
 - Give advice to distribute the police based on analysis results
 
-## Top-3 Danger District¶
+## Top-3 Danger District
 |District           |Number of Crimes|
 |-------------------|----------------|
 |DOWNTOWN COMMERCIAL|77447           |
