@@ -3,6 +3,7 @@
 Dataset: https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5
 
 ## Solve Big Data Issues via Spark Step-by-Step (Online Analytical Processing)
+- Visualize the distribution of all the incidents using the longitude and latitude information
 - Count the number of crimes for different category
 - Count the number of crimes for different block address
 - Count the number of crimes each Sunday at Seattle downtown
